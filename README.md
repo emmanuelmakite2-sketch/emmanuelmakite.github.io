@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on **my fellow students**
 
 - 📫 How to reach me **emmanuelmakite2@gmail.com**
-
+- call me via ** 0759210710**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
