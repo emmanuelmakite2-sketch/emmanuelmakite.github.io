@@ -14,10 +14,7 @@
 ## How to Reach Me
 - Email: emmanuelmakite2@gmail.com
 - LinkedIn: https://www.instagram.com/emmanuelmakite?stkn=aHJxdDFidDN5Yjhx
-- <h1 align="center">Hi 👋, I'm Emmanuel Makite</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
-
-- 🔭 I’m currently working on **House Hunting**
+- 🔭 I’m currently working on **House Hunting project**
 
 - 🌱 I’m currently learning **Wecan academy**
 
