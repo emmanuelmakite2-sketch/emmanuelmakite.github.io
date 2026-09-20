@@ -1,4 +1,4 @@
-# Hi, I'm emmanuelmakit
+# Hi, I'm emmanuelmakite
 ## About Me
 - I'm currently learning .Computer programing.
 - I'm interested in this course what to make one of r=the best webs.
